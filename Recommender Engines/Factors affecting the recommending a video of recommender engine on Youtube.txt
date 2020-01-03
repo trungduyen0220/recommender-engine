@@ -1,0 +1,60 @@
+﻿==================================================================================================================
+Problem: Factors affecting the recommending a video of recommendation engine on Youtube 
+	(and how Youtubers can make their video more atractive <--- cái này làm không được thì thôi)
+
+==================================================================================================================
+
+1. What is recommendation system/ recommendation engine?
+	+ Recommender systems handbooks, Francesco Ricci·Lior Rokach·Bracha Shapira· Paul B. Kantor 
+	+ Trends, Problems And Solutions of Recommender System, 2015, Dr. Sarika Jain, Anjali Grover, Praveen Singh Thakur, Sourabh Kumar Choudhary 
+2. Online Video Recommendation System
+		Breed of some recommendation system: Advantages and Disadvantages of each system.
+		Challenges and sollutions
+	+ VideoReach an online video recommendation system, 2007
+		Multimodal Relevance
+		Fusion Strategy
+3. About the Youtube video recommendation system:
+	+ The Youtube Video Recommendation System, 2010
+		Input data, 
+		Related Videos, 
+		Generating Recommendation Candidates, 
+		User Interface,
+		Rankin
+		System Implementation
+		"For example, recommendations account for about 60% of all video clicks from the homepage.
+		"Overall, we find that co-visitation based recommendation performs at 207% of the baseline Most viewed page when averaged over the entire period, 
+		while Top Favorited and Top Rated perform at similar levels or below the Most Viewed baseline." 
+	+ Interactive Recommendation Systems (Slide)
+	+ Recommending Related YouTube Video (Simulation of recommender engine related Youtube)
+		Explore new recommendation system, which unlike previous approaches more directly relies on Youtube's inherent graph struture
+		Node2vec (nani)
+	+ Youtube Video Recommendation via Cross-Network Collaboration, 2016 (demo, crossnetwork nani)
+4. How Youtube recommendation system can impact a user (increase the view of video...)?
+How videos are discovered by users, what are the major sources that drive the views of a video?
+Accuracy of impact...?
+	+The impact of Youtube recommendation system on video views, 2010, Renjie Zhou†, Samamon Khemmarat‡, Lixin Gao‡
+		1. Data description 
+			Data source, 
+			Data collection
+		2. Sources of video views 
+			Representativeness of Tracked Views, 
+			Main Sources of Overall Views, 
+			Dominant Sources for Individual Videos
+		3. How recommendation system affects video views
+			The corelation between video views and referrer video views
+			How the Position Affects Video Views
+		5. Impact on video view diversity
+	+Estimating Attention Flowing Online Video Networks, 2019	
+		1. Related
+			Recommender systems and video recommendation
+			Measuring the effects of recommender systems
+			Measuring and predicting online attention
+		2. Constructing Youtube Video network
+			VEVO Music Graph dataset
+			Data collection strategy
+			The network of Youtebe videos
+		3. Measuring Youtebe Video network
+		4. Estimating attention flow in the Youtube video network
+	+ The Good, the Bad and the Bait: Detecting and Characterizing Clickbait on Youtube, 2018
+		Clickbait có ảnh hưởng cái recommendation này không? 
+	
